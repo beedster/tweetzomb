@@ -1,0 +1,2 @@
+module RottingzombiesHelper
+end

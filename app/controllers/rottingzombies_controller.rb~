@@ -1,0 +1,2 @@
+class RottingzombiesController < ApplicationController
+end
